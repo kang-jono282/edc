@@ -1,0 +1,2 @@
+# edc
+Pertambangan digital
